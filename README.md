@@ -7,12 +7,6 @@ The ISL dataset is built by accuquiring the Channel State Information(CSI) of Wi
 
 This dataset is being used in a publication under review. Upon successful publication acceptance, the ISL dataset (both static and dynamic) will be made available here. 
 
-
-
-
-
-
-.
 The following are the publications based on the study of Human Gesture Recogntion (HGR) using Wi-Fi CSI:
 
 1. H.F.T. Ahmed, H. Ahmad, S.K. Phang, C.A. Vaithilingam, H. Harkat, K. Narasingamurthi. Sign language gesture recognition with bispectrum features using SVM. AIP Conference Proceedings 2020, 2233(1), pp. 030001. https://doi.org/10.1063/5.0002344
