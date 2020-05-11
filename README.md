@@ -3,8 +3,21 @@ This repository consists of video clips of selective gestures of Indian Sign Lan
 
 The complete set of ISL gestures by NIOS, India can be found under a playlist https://www.youtube.com/playlist?list=PLUuOqp8QaNB0IG-GOV8wzKFsjL7v3iLIG
 
-The Wi-Fi CSI sign language dataset for the selective ISL gestures listed here was developed. Three volunteers performed the gestures in three different environments (2 home and 1 office). The ISL dataset developed comprises of 30 static gestures and 19 dynamic gestures looked over the huge database of NIOS. The raw CSI signal collected for 49 ISL gestures with three volunteers performing the signs in three different environments with 20 instances per sign gesture. 
-
-Data acquisitions of static gestures are initiated after the volunteers are ready with the sign pose to ensure that no additional movement is recorded while capturing every instance. In contrast, the sign poses (upper body or hand movements) were repeated for the entire duration of data acquisition while collecting every dynamic instance. Static gestures The static sign gestures are highly fine-grained than the dynamic sign gestures, as some of the static signs will have a nearly similar orientation of head, arm and fingers.
+The ISL dataset is built by accuquiring the Channel State Information(CSI) of Wi-Fi signals using 802.11n Linux CSI tool(https://github.com/dhalperi/linux-80211n-csitool/).
 
 This dataset is being used in a publication under review. Upon successful publication acceptance, the ISL dataset (both static and dynamic) will be made available here. 
+
+
+
+
+
+
+
+The following are the publications based on the study of Human Gesture Recogntion (HGR) using Wi-Fi CSI:
+
+1. H.F.T. Ahmed, H. Ahmad, S.K. Phang, C.A. Vaithilingam, H. Harkat, K. Narasingamurthi. Sign language gesture recognition with bispectrum features using SVM. AIP Conference Proceedings 2020, 2233(1), pp. 030001. https://doi.org/10.1063/5.0002344
+
+2. H.F.T. Ahmed, H. Ahmad, C. Aravind. Device free human gesture recognition using Wi-Fi CSI: A survey. Engineering Applications of Artificial Intelligence 2020, 87(2020), 103281, pp. 1-19. https://doi.org/10.1016/j.engappai.2019.103281
+
+3. H. Farhana Thariq Ahmed, H. Ahmad, S.K. Phang, C.A. Vaithilingam, H. Harkat, K. Narasingamurthi. Higher Order Feature Extraction and Selection for Robust Human Gesture Recognition using CSI of COTS Wi-Fi Devices. Sensors 2019, 19(13), 2959, pp. 1-23. https://doi.org/10.3390/s19132959
+
