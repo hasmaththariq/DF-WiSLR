@@ -15,3 +15,4 @@ The following are the publications based on the study of Human Gesture Recogntio
 
 3. H. Farhana Thariq Ahmed, H. Ahmad, S.K. Phang, C.A. Vaithilingam, H. Harkat, K. Narasingamurthi. Higher Order Feature Extraction and Selection for Robust Human Gesture Recognition using CSI of COTS Wi-Fi Devices. Sensors 2019, 19(13), 2959, pp. 1-23. https://doi.org/10.3390/s19132959
 
+For any queries, please write to hasmathfarhana@gmail.com
