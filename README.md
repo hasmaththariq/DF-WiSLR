@@ -3,7 +3,7 @@ This repository consists of video clips of selective gestures of Indian Sign Lan
 
 The complete set of ISL gestures by NIOS, India can be found under a playlist https://www.youtube.com/playlist?list=PLUuOqp8QaNB0IG-GOV8wzKFsjL7v3iLIG
 
-The ISL dataset is built by accuquiring the Channel State Information(CSI) of Wi-Fi signals using 802.11n Linux CSI tool(https://github.com/dhalperi/linux-80211n-csitool/).
+The ISL dataset is built by accuquiring the Channel State Information(CSI) of Wi-Fi signals using 802.11n Linux CSI tool(https://github.com/dhalperi/linux-80211n-csitool/). The videos clips of static (S1 - S30) and dynamic (D1 - D19) sign gestures are provided in the folders.
 
 This dataset is being used in a publication under review. Upon successful publication acceptance, the ISL dataset (both static and dynamic) will be made available here. 
 
