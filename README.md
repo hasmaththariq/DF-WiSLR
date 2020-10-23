@@ -1,4 +1,7 @@
-# ISL_Gesture_Recognition
+# DF-WiSLR : Device Free Wi-Fi based Sign Language Recognition
+
+DF-WiSLR for Indian Sign Language (ISL)
+
 This repository consists of video clips of selective gestures of Indian Sign Language (ISL), referring to National Institute of Open Schooling (NIOS) - India. These gestures were used to build a Wi-Fi CSI dataset, for estimating the gesture recognition accuracy using a Machine Learning approach. 
 
 The complete set of ISL gestures by NIOS, India can be found under a playlist https://www.youtube.com/playlist?list=PLUuOqp8QaNB0IG-GOV8wzKFsjL7v3iLIG
